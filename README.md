@@ -19,5 +19,5 @@ Now, this repository, also linking to its site: https://minecrowaver.github.io/M
 - If you are using the links and programs that I shared, well, **ENJOY!**
 ## Support
 
-For support, email minecrowaver@outlook.com or join the discord channel.
+For support, email minecrowaver@outlook.com or join the [discord channel](www.discord.com).
 
